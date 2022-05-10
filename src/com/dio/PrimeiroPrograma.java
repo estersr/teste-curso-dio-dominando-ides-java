@@ -9,8 +9,8 @@ public class PrimeiroPrograma {
 		Livro livro = new Livro();
 		
 		
-		System.out.printIn(gato);
-		System.out.printIn(livro);
+		System.out.print(gato);
+		System.out.print(livro);
 		/*
 		 * ctrl + shft + o = importar
 		 * ctrl shift f = identar
